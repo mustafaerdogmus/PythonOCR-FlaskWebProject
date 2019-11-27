@@ -22,3 +22,7 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tessera
 TESSDATA_PREFIX = 'C:/Program Files (x86)/Tesseract-OCR' ^ sizin kurduğunuz dizin neresi ise o dizini r ' ' arasına eklemelisiniz.
 
 5 - Kodu tekrar çalıştırın.
+
+
+
+Not: out_text.txt  dosyasında pdf dosyasının içeriğini göreceksiniz. Eğer Türkçe karakter sorunu var ise karakter kodlamasını UTF-8 yapmalısınız.
