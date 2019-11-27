@@ -1,9 +1,8 @@
 # PythonOCR-FlaskWebProject
-PDF dosyaları içindeki yazıların string olarak elde edilmesini sağlar. Api uygulaması olarak geliştirilmiştir. Diğer tüm platformlardan istek yaparak pdf dosyalardan metin çıkartılıp alınabilir.
+<h3> PDF dosyaları içindeki yazıların string olarak elde edilmesini sağlar. Api uygulaması olarak geliştirilmiştir. Diğer tüm platformlardan istek yaparak pdf dosyalardan metin çıkartılıp alınabilir.
+</h3
 
-
-Pytesseract : “TesseractNotFound Error: tesseract is not installed or it's not in your path”,hatası alırsanız yapmanız gerekenler
-
+<h2>Pytesseract : “TesseractNotFound Error: tesseract is not installed or it's not in your path”,hatası alırsanız yapmanız gerekenler</h2>
 
 
 ### Windows için Kurulum
