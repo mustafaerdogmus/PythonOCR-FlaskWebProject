@@ -27,12 +27,16 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="PythonOcr_FlaskWebProject\db\Users.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="runserver.py" />
     <Compile Include="PythonOcr_FlaskWebProject\__init__.py" />
     <Compile Include="PythonOcr_FlaskWebProject\views.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="PythonOcr_FlaskWebProject\" />
+    <Folder Include="PythonOcr_FlaskWebProject\db\" />
     <Folder Include="PythonOcr_FlaskWebProject\static\" />
     <Folder Include="PythonOcr_FlaskWebProject\static\content\" />
     <Folder Include="PythonOcr_FlaskWebProject\static\fonts\" />
