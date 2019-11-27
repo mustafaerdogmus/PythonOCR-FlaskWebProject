@@ -40,8 +40,11 @@ sizin kurduğunuz dizin neresi ise o dizini r ' ' arasına eklemelisiniz.
 
 ### 5 -
                     
-> Kodu tekrar çalıştırın.
+> Kodu tekrar çalıştırın.>
 
 
 ### Not: out_text.txt  dosyasında pdf dosyasının içeriğini göreceksiniz. Eğer Türkçe karakter sorunu var ise karakter kodlamasını UTF-8 yapmalısınız.
 
+
+# Python SQLAlchemy Kurulumu
+pip install SQLAlchemy==1.3.11
