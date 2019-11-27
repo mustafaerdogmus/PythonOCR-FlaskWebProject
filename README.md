@@ -11,7 +11,8 @@ Windows için
 Buradan al. https://github.com/UB-Mannheim/tesseract/wiki
 Uygun sürümü buradan indirin.
 
-2 - Tesseract yolunu  Sistem değişkenlerine ekleyin
+2 - Tesseract yolunu  Sistem değişkenlerine ekleyin 
+    (nasıl ekleneceğini bilmiyorsanız bu videoyu izleyin https://onedrive.live.com/?authkey=%21AP5Ln23ZkVqfwBQ&cid=7D42363E6971485E&id=7D42363E6971485E%213115&parId=root&o=OneUp
 
 3 - pip install pytesseract ve pip install tesseract
 
