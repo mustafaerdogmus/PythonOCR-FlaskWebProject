@@ -1,5 +1,10 @@
 
-PythonOCR-FlaskWebProject/tree/master/PythonOcr_FlaskWebProject/PythonOcr_FlaskWebProject/static/scripts/* linguist-vendored
+#PythonOCR-FlaskWebProject/tree/master/PythonOcr_FlaskWebProject/PythonOcr_FlaskWebProject/static/scripts/* linguist-vendored
+*.java linguist-detectable=false
+*.js linguist-detectable=false
+*.html linguist-detectable=false
+*.xml linguist-detectable=false
+*.py linguist-detectable=true
 
 ###############################################################################
 # Set default behavior to automatically normalize line endings.
