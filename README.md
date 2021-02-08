@@ -22,7 +22,11 @@ nasıl ekleneceğini bilmiyorsanız bu videoyu izleyin [Links](https://onedrive.
 
 ### 3 
                
-> pip install pytesseract ve pip install tesseract
+> pip install pytesseract 
+> pip install tesseract
+> pip install pdf2image
+
+komutlarını çalıştırın
 
 
 ### 4 
