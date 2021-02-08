@@ -25,6 +25,9 @@ nasıl ekleneceğini bilmiyorsanız bu videoyu izleyin [Links](https://onedrive.
 > pip install pytesseract 
 > pip install tesseract
 > pip install pdf2image
+> pip install flask_sqlalchemy
+> pip install flask_httpauth
+> pip install passlib
 
 komutlarını çalıştırın
 
