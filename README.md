@@ -55,3 +55,9 @@ sizin kurduğunuz dizin neresi ise o dizini r ' ' arasına eklemelisiniz.
 
 # Python SQLAlchemy Kurulumu
 pip install SQLAlchemy==1.3.11
+
+
+
+
+#Muhtemel Hatalar
+TypeError: can only concatenate str (not "PDFPageCountError") to str ya da TypeError: can only concatenate str (not "PDFInfoNotInstalledError") to str hatalarını alırsanız verdiğiniz pdf in yolunun doğru olduğuna emin olunuz. Doğru olsa bile windowsta o klasöre erişimde yetki problemi olabilir.
